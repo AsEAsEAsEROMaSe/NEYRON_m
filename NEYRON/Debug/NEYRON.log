@@ -1,0 +1,86 @@
+﻿  NEYRON.cpp
+C:\Users\Trim\Desktop\NEYRON\NEYRON.cpp(80,31): warning C4305: инициализация: усечение из "double" в "const float"
+C:\Users\Trim\Desktop\NEYRON\NEYRON.cpp(106,12): warning C4244: инициализация: преобразование "double" в "size_t", возможна потеря данных
+C:\Users\Trim\Desktop\NEYRON\NEYRON.cpp(106,27): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Trim\Desktop\NEYRON\NEYRON.cpp(147,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Trim\Desktop\NEYRON\NEYRON.cpp(149,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Trim\Desktop\NEYRON\NEYRON.cpp(165,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Trim\Desktop\NEYRON\NEYRON.cpp(173,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Trim\Desktop\NEYRON\NEYRON.cpp(178,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Trim\Desktop\NEYRON\NEYRON.cpp(180,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Trim\Desktop\NEYRON\NEYRON.cpp(182,23): warning C4244: аргумент: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Trim\Desktop\NEYRON\NEYRON.cpp(194,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Trim\Desktop\NEYRON\NEYRON.cpp(202,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Trim\Desktop\NEYRON\NEYRON.cpp(207,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Trim\Desktop\NEYRON\NEYRON.cpp(209,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Trim\Desktop\NEYRON\NEYRON.cpp(211,23): warning C4244: аргумент: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Trim\Desktop\NEYRON\NEYRON.cpp(235,18): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Trim\Desktop\NEYRON\NEYRON.cpp(246,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Trim\Desktop\NEYRON\NEYRON.cpp(250,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Trim\Desktop\NEYRON\NEYRON.cpp(256,20): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Trim\Desktop\NEYRON\NEYRON.cpp(263,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Trim\Desktop\NEYRON\NEYRON.cpp(267,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Trim\Desktop\NEYRON\NEYRON.cpp(274,20): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Trim\Desktop\NEYRON\NEYRON.cpp(280,19): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Trim\Desktop\NEYRON\NEYRON.cpp(285,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Trim\Desktop\NEYRON\NEYRON.cpp(289,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Trim\Desktop\NEYRON\NEYRON.cpp(296,20): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Trim\Desktop\NEYRON\NEYRON.cpp(302,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Trim\Desktop\NEYRON\NEYRON.cpp(307,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Trim\Desktop\NEYRON\NEYRON.cpp(320,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Trim\Desktop\NEYRON\NEYRON.cpp(322,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Trim\Desktop\NEYRON\NEYRON.cpp(331,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Trim\Desktop\NEYRON\NEYRON.cpp(340,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Trim\Desktop\NEYRON\NEYRON.cpp(348,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Trim\Desktop\NEYRON\NEYRON.cpp(350,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Trim\Desktop\NEYRON\NEYRON.cpp(352,1): warning C4244: +=: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Trim\Desktop\NEYRON\NEYRON.cpp(379,15): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Trim\Desktop\NEYRON\NEYRON.cpp(418,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Trim\Desktop\NEYRON\NEYRON.cpp(421,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Trim\Desktop\NEYRON\NEYRON.cpp(448,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Trim\Desktop\NEYRON\NEYRON.cpp(477,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Trim\Desktop\NEYRON\NEYRON.cpp(510,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Trim\Desktop\NEYRON\NEYRON.cpp(512,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Trim\Desktop\NEYRON\NEYRON.cpp(514,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Trim\Desktop\NEYRON\NEYRON.cpp(539,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Trim\Desktop\NEYRON\NEYRON.cpp(630,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Trim\Desktop\NEYRON\NEYRON.cpp(641,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Trim\Desktop\NEYRON\NEYRON.cpp(656,22): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Trim\Desktop\NEYRON\NEYRON.cpp(686,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Trim\Desktop\NEYRON\NEYRON.cpp(693,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Trim\Desktop\NEYRON\NEYRON.cpp(695,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Trim\Desktop\NEYRON\NEYRON.cpp(702,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Trim\Desktop\NEYRON\NEYRON.cpp(719,19): warning C4305: =: усечение из "double" в "float"
+C:\Users\Trim\Desktop\NEYRON\NEYRON.cpp(722,16): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Trim\Desktop\NEYRON\NEYRON.cpp(726,15): warning C4305: =: усечение из "double" в "float"
+C:\Users\Trim\Desktop\NEYRON\NEYRON.cpp(760,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Trim\Desktop\NEYRON\NEYRON.cpp(777,23): warning C4018: <: несоответствие типов со знаком и без знака
+  NEYRON.vcxproj -> C:\Users\Trim\Desktop\NEYRON\Debug\NEYRON.exe
